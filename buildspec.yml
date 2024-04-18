@@ -36,6 +36,5 @@ phases:
 artifacts:
   files:
     - index.js
-    - db.sql
     - package.json
     - imagedefinations.json
